@@ -1,18 +1,23 @@
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Model/Message.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/MessageSystemApplication.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/exceptions/UserNotFoundException.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Service/Impl/UserServiceImpl.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Repository/ConversationRepository.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Model/Status.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Repository/UserRepository.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Service/MessageService.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/exceptions/ConversationNotExistsException.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Model/AbstractDomain.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Model/User.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Repository/MessageRepository.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/exceptions/EmailAlreadyExistsException.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Service/UserService.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Service/Impl/MessageServiceImpl.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Model/Conversation.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/Service/ConversationService.java
-/home/kenez/JavaFiles/message_system/src/main/java/com/message/system/message_system/exceptions/MessageNotFoundException.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Repository\UserRepository.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Controller\AuthController.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Repository\MessageRepository.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Service\Impl\UserServiceImpl.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Service\ConversationService.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Model\User.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Controller\MessageController.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\exceptions\MessageNotFoundException.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Repository\ConversationRepository.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Service\UserService.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\MessageSystemApplication.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Service\Impl\ConversationServiceImpl.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Controller\ConversationController.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\exceptions\ConversationNotExistsException.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\exceptions\UserNotFoundException.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\exceptions\EmailAlreadyExistsException.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Model\Status.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Controller\UserController.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Model\Message.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Model\Conversation.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Service\Impl\MessageServiceImpl.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Service\MessageService.java
+C:\Users\Herczeg István\Desktop\message\src\main\java\com\message\system\message_system\Model\AbstractDomain.java
